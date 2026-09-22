@@ -3,7 +3,7 @@
   "displayName": "ddb - Firebase Crashlytics",
   "description": "Firebase Crashlytics",
   "author": "datdb - Third Party SDKs",
-  "version": "13.10.0",
+  "version": "13.17.0",
   "dependencies": {
   }
 }
